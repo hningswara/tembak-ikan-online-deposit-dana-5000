@@ -1,13 +1,20 @@
 {
-  "name": "ui-theme-template",
-  "theme": "ui",
-  "version": "0.0.0",
-  "description": "A short description of your UI theme",
+  "name": "agen-slot-online-terpercaya",
+  "main": "./atom/agen-slot-gacor-terpercaya",
+  "version": "1.1.0",
+  "description": "Agen slot online deposit 5000 tanpa potongan",
   "keywords": [
-    "ui",
-    "theme"
+    "slot bet kecil",
+    "agen judi online",
+    "agen slot online",
+    "situs slot gacor",
+    "slot deposit 5000",
+    "slot online deposit termurah"
   ],
-  "repository": "https://github.com/atom-community/ui-theme-template",
+  "activationCommands": {
+    "atom-workspace": "agen-slot-online:toggle"
+  },
+  "repository": "https://github.com/ayam-gorengkalasan/agen-slot-gacor-terpercaya",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
