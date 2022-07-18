@@ -1,20 +1,20 @@
 {
-  "name": "agen-slot-gacor-terpercaya",
-  "main": "./atom/agen-slot-gacor-terpercaya",
+  "name": "idn-poker-via-dana-10000",
+  "main": "./atom/idn-poker-via-dana-10000",
   "version": "1.7.2",
-  "description": "Agen slot online deposit 5000",
+  "description": "idn-poker-via-dana-10000",
   "keywords": [
-    "slot bet kecil",
-    "agen judi online",
+    "judi poker online",
+    "situs poker online",
     "agen slot online",
-    "situs slot gacor",
-    "slot deposit 5000",
-    "slot online deposit termurah"
+    "poker online via dana",
+    "judi poker via dana 10rb",
+    "idn poker pakai dana 10 ribu"
   ],
   "activationCommands": {
-    "atom-workspace": "agen-slot-online:toggle"
+    "atom-workspace": "idn-poker-via-dana-10000:toggle"
   },
-  "repository": "https://github.com/ayam-gorengkalasan/agen-slot-gacor-terpercaya",
+  "repository": "https://github.com/ayam-rendang/idn-poker-via-dana-10000",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
