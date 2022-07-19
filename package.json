@@ -1,11 +1,7 @@
 {
-  "name": "tembak-ikan-online-depo-dana-5rb1",
-  "main": "./atom/tembak-ikan-online-deposit-dana-5001",
-  "version": "1.9.2",
-  "description": "tembak-ikan-online-deposit-dana-5001",
   "name": "tembak-ikan-online-depo-dana-5rb-1",
   "main": "./atom/tembak-ikan-online-deposit-dana-5001",
-  "version": "1.9.2",
+  "version": "1.10.0",
   "description": "tembak-ikan-online-deposit-dana-5002",
   "keywords": [
     "judi tembak ikan online",
