@@ -1,8 +1,8 @@
 {
   "name": "tembak-ikan-online-depo-dana-5rb-1",
-  "main": "./atom/tembak-ikan-online-deposit-dana-5001",
-  "version": "1.9.2",
-  "description": "tembak-ikan-online-deposit-dana-5001",
+  "main": "./atom/tembak-ikan-online-deposit-dana-5000-1",
+  "version": "1.9.1",
+  "description": "tembak-ikan-online-deposit-dana-5000-1",
   "keywords": [
     "judi tembak ikan online",
     "situs tembai ikan resmi",
@@ -12,7 +12,7 @@
     "tembak ikan online deposit 5 ribu"
   ],
   "activationCommands": {
-    "atom-workspace": "tembak-ikan-online-deposit-dana-5000:toggle"
+    "atom-workspace": "tembak-ikan-online-deposit-dana-5000-1:toggle"
   },
   "repository": "https://github.com/hningswara/tembak-ikan-online-deposit-dana-5000",
   "license": "MIT",
