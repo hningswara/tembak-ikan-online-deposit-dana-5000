@@ -3,11 +3,11 @@
   "main": "./atom/tembak-ikan-online-deposit-dana-10000",
   "version": "2.6.1",
   "description": "tembak-ikan-online-deposit-dana-10000",
-  "keywords": 
+  "keywords": [
     "judi 10000",
     "judi 10000 resmi",
     "agen judi 10000",
-
+],
   "activationCommands": {
     "atom-workspace": "tembak-ikan-online-deposit-dana-5000-1:toggle"
   },
