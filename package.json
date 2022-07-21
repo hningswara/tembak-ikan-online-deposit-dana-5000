@@ -1,6 +1,6 @@
 {
   "name": "tembak-ikan-online-deposit-dana-10rb",
-  "main": "./atom/tembak-ikan-online-deposit-dana-10000",
+  "main": "./tembak-ikan-online-deposit-dana-10000",
   "version": "2.6.1",
   "description": "tembak-ikan-online-deposit-dana-10000",
   "keywords": [
